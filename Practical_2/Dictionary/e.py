@@ -1,4 +1,8 @@
-"""Write a Python script to concatenate following dictionaries to create a new one."""
+"""Write a Python script to concatenate following dictionaries to create a new one.
+    STUDENT ID:-    20CS043
+    STUDENT NAME:-  DEV PAREKH
+"""
+
 # Given 3 dictionaries
 dic1 = {1: 10, 2: 20}
 dic2 = {3: 30, 4: 40}

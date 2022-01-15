@@ -1,4 +1,8 @@
-"""Write a Python program to find the most common elements and their counts from list, tuple, dictionary."""
+""" Write a Python program to find the most common elements and their counts from list, tuple, dictionary.
+    STUDENT ID:-    20CS043
+    STUDENT NAME:-  DEV PAREKH
+"""
+
 # Creating a list and a tuple
 List = [1, 2, 3, 2, 1, 1, 2, 4]
 Tuple = (3, 4, 2, 1, 3, 3, 4, 2)

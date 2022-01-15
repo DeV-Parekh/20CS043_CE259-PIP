@@ -1,4 +1,8 @@
-""" Write a Python program to sum all the items in a dictionary."""
+""" Write a Python program to sum all the items in a dictionary.
+    STUDENT ID:-    20CS043
+    STUDENT NAME:-  DEV PAREKH
+
+"""
 # Creating a dictionary
 d = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
 
